@@ -1,7 +1,7 @@
 # Final Fantasy Website Redesign 
 
 ## About The Project
-This project was made with the intention of learning React and Tailwind. 
+This project was made with the intention of learning React and Tailwind V4. 
 
 ## Website preview
 
