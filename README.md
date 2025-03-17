@@ -3,6 +3,13 @@
 ## About The Project
 This project was made with the intention of learning React and Tailwind. 
 
+## Website preview
+
+Click the link here **[Final Fantasy website](https://final-fantasy-website.vercel.app/#home)**. or use https://final-fantasy-website.vercel.app/#home
+
+## Programming Language and Frameworks
+This Website was made with REACT, Tailwind and GSAP 
+
 ## Getting started
 
 1. Clone the repository
@@ -25,6 +32,4 @@ This project was made with the intention of learning React and Tailwind.
    ```bash
     npm run dev
    ```
-
-## Programming Language and Frameworks
-This Website was made with REACT, Tailwind and GSAP 
+   
