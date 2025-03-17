@@ -1,8 +1,30 @@
-# React + Vite
+# Final Fantasy Website Redesign 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## About The Project
+This project was made with the intention of learning React and Tailwind. 
 
-Currently, two official plugins are available:
+## Getting started
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+1. Clone the repository
+    ```
+   git clone https://github.com/yourusername/meal-app.git
+   ```
+2. Navigate to project directory
+    ```
+   cd final-fantasy-website
+   ```
+ 
+3. Install dependencies
+
+   ```bash
+   npm install
+   ```
+
+4. Start the app
+
+   ```bash
+    npm run dev
+   ```
+
+## Programming Language and Frameworks
+This Website was made with REACT, Tailwind and GSAP 
